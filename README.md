@@ -5,7 +5,7 @@ Site: Https://zakariadows.wixsite.com/home
 
 Download The os using this link
 
-https://zakariadows.wixsite.com/home.download
+https://zakariadows.wixsite.com/home/download
 
 When you download the OS YOU ACCEPT THE MICROSOFT WINDOWS LICENSE TERMS
 
